@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>icon.ico</file>
+    </qresource>
+    <qresource prefix="/new/bgrand">
+        <file>img/close.png</file>
+        <file>img/insertclose.png</file>
+        <file>img/minsize.png</file>
+        <file>img/bggrand.png</file>
+        <file>img/nextt.png</file>
+        <file>img/upt.png</file>
+        <file>img/bgl.png</file>
+        <file>img/bgres.jpg</file>
+        <file>img/wind.png</file>
+        <file>img/q3.png</file>
+        <file>img/q4.png</file>
+        <file>img/q10.png</file>
+        <file>img/q11.png</file>
+        <file>img/q12.png</file>
+    </qresource>
+    <qresource prefix="/new/back"/>
+</RCC>
